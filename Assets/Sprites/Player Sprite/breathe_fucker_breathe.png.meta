@@ -1,0 +1,1143 @@
+fileFormatVersion: 2
+guid: 980ef418b9edda14d84716441cd150dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4216470664645821471
+    second: breathe_fucker_breathe_0
+  - first:
+      213: 5116071954112464989
+    second: breathe_fucker_breathe_1
+  - first:
+      213: 6001757449748827890
+    second: breathe_fucker_breathe_2
+  - first:
+      213: 7517676550085749134
+    second: breathe_fucker_breathe_3
+  - first:
+      213: -1090971320326338258
+    second: breathe_fucker_breathe_4
+  - first:
+      213: 4847405924068536791
+    second: breathe_fucker_breathe_5
+  - first:
+      213: -7609213602572145999
+    second: breathe_fucker_breathe_6
+  - first:
+      213: 7639677687364891652
+    second: breathe_fucker_breathe_7
+  - first:
+      213: -2925322182336570984
+    second: breathe_fucker_breathe_8
+  - first:
+      213: -7779814542029396736
+    second: breathe_fucker_breathe_9
+  - first:
+      213: 1633492967163969927
+    second: breathe_fucker_breathe_10
+  - first:
+      213: 1359058334739782878
+    second: breathe_fucker_breathe_11
+  - first:
+      213: 5674060131188612881
+    second: breathe_fucker_breathe_12
+  - first:
+      213: 6715092503889944055
+    second: breathe_fucker_breathe_13
+  - first:
+      213: -3196120536599388967
+    second: breathe_fucker_breathe_14
+  - first:
+      213: -5376231123289412766
+    second: breathe_fucker_breathe_15
+  - first:
+      213: -7128344366516394838
+    second: breathe_fucker_breathe_16
+  - first:
+      213: -5146664150123881207
+    second: breathe_fucker_breathe_17
+  - first:
+      213: 124920152612430847
+    second: breathe_fucker_breathe_18
+  - first:
+      213: 8784498814719436999
+    second: breathe_fucker_breathe_19
+  - first:
+      213: 2371472039702334162
+    second: breathe_fucker_breathe_20
+  - first:
+      213: -3185249121265749013
+    second: breathe_fucker_breathe_21
+  - first:
+      213: -9083983942397958507
+    second: breathe_fucker_breathe_22
+  - first:
+      213: -3720076120429269709
+    second: breathe_fucker_breathe_23
+  - first:
+      213: -4099214991801808707
+    second: breathe_fucker_breathe_24
+  - first:
+      213: -3154323253443807511
+    second: breathe_fucker_breathe_25
+  - first:
+      213: -190751737007058132
+    second: breathe_fucker_breathe_26
+  - first:
+      213: 6420362097973508775
+    second: breathe_fucker_breathe_27
+  - first:
+      213: 2836799430697809749
+    second: breathe_fucker_breathe_28
+  - first:
+      213: 1264315169881178159
+    second: breathe_fucker_breathe_29
+  - first:
+      213: -5231742468374156026
+    second: breathe_fucker_breathe_30
+  - first:
+      213: -8211826853088843781
+    second: breathe_fucker_breathe_31
+  - first:
+      213: 3288194049266840188
+    second: breathe_fucker_breathe_32
+  - first:
+      213: -284841138464087451
+    second: breathe_fucker_breathe_33
+  - first:
+      213: 1300330781226730826
+    second: breathe_fucker_breathe_34
+  - first:
+      213: -4319362883684680054
+    second: breathe_fucker_breathe_35
+  - first:
+      213: -5368316165145476915
+    second: breathe_fucker_breathe_36
+  - first:
+      213: 3621067245645925057
+    second: breathe_fucker_breathe_37
+  - first:
+      213: -3326526273951674540
+    second: breathe_fucker_breathe_38
+  - first:
+      213: -1183936540043084451
+    second: breathe_fucker_breathe_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1922
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb3ee335461c75c0800000000000000
+      internalID: -4216470664645821471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1922
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58463e0650fff640800000000000000
+      internalID: 5116071954112464989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1922
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe45541a968a4350800000000000000
+      internalID: 6001757449748827890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_3
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1922
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e892520fdf6245860800000000000000
+      internalID: 7517676550085749134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1922
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e294fc74d571cd0f0800000000000000
+      internalID: -1090971320326338258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_5
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1922
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1ba3a5102754340800000000000000
+      internalID: 4847405924068536791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_6
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1922
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baed963b84a66690800000000000000
+      internalID: -7609213602572145999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_7
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1922
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404bcd14166950a60800000000000000
+      internalID: 7639677687364891652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1666
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899124469fa2767d0800000000000000
+      internalID: -2925322182336570984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1666
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0056beba4eb880490800000000000000
+      internalID: -7779814542029396736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_10
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1666
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78148e2f2355ba610800000000000000
+      internalID: 1633492967163969927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_11
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1666
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcd237da585cd210800000000000000
+      internalID: 1359058334739782878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_12
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1666
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f14b970af4ebe40800000000000000
+      internalID: 5674060131188612881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_13
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1666
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd9f30ed0dc03d50800000000000000
+      internalID: 6715092503889944055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_14
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1666
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc99a44e4915a3d0800000000000000
+      internalID: -3196120536599388967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_15
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1666
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b6fe1274ac365b0800000000000000
+      internalID: -5376231123289412766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1410
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa42225f098031d90800000000000000
+      internalID: -7128344366516394838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1410
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dd0a149306398b0800000000000000
+      internalID: -5146664150123881207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_18
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1410
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff360c9873ecbb100800000000000000
+      internalID: 124920152612430847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_19
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1410
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c82135312fc8e970800000000000000
+      internalID: 8784498814719436999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_20
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1410
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da8a39614929e020800000000000000
+      internalID: 2371472039702334162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_21
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1410
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be374d5ecc8bbc3d0800000000000000
+      internalID: -3185249121265749013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_22
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1410
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5966400cbb43fe180800000000000000
+      internalID: -9083983942397958507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_23
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1410
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d66607a72af5cc0800000000000000
+      internalID: -3720076120429269709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1154
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db882bbfea9ac17c0800000000000000
+      internalID: -4099214991801808707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1154
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e63abb96b79934d0800000000000000
+      internalID: -3154323253443807511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_26
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1154
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23d76b4e405a5df0800000000000000
+      internalID: -190751737007058132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_27
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1154
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aab713cf45b91950800000000000000
+      internalID: 6420362097973508775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_28
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1154
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557f5cd5d065e5720800000000000000
+      internalID: 2836799430697809749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_29
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1154
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20c7e8c2ffbb8110800000000000000
+      internalID: 1264315169881178159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_30
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1154
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dab38a1fd1567b0800000000000000
+      internalID: -5231742468374156026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_31
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1154
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf720a83cfab90e80800000000000000
+      internalID: -8211826853088843781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 898
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c727a13f01302ad20800000000000000
+      internalID: 3288194049266840188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_33
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 898
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5622e646e7a0c0cf0800000000000000
+      internalID: -284841138464087451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_34
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 898
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a458681c4f3bb0210800000000000000
+      internalID: 1300330781226730826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_35
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 898
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eb7fd975a8e04c0800000000000000
+      internalID: -4319362883684680054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_36
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 898
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0448ee3e8ef75b0800000000000000
+      internalID: -5368316165145476915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_37
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 898
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca0784897d904230800000000000000
+      internalID: 3621067245645925057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_38
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 898
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f4b118afdc5d1d0800000000000000
+      internalID: -3326526273951674540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_fucker_breathe_39
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 898
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d70265dffc19fe0800000000000000
+      internalID: -1183936540043084451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

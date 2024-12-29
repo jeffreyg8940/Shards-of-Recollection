@@ -5,6 +5,7 @@ using UnityEngine.PlayerLoop;
 public class PlayerMovement : MonoBehaviour
 {
     // setting variables to access different elements in unity.
+    [Header("Movement Settings")]
     [SerializeField] private float speed; 
     [SerializeField] private float jump_Speed; 
     [SerializeField] private LayerMask groundLayer;
@@ -43,9 +44,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void jump() 
     {
-         body.linearVelocity = new Vector2(body.linearVelocityX, jump_Speed);
-         anim.SetTrigger("jump");
 
+         body.linearVelocity = new Vector2(body.linearVelocityX, jump_Speed);
     }
 
     private bool isGrounded()

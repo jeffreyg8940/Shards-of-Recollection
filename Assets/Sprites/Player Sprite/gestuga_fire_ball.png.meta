@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: dde145c3a0e9c304699b1ba34f5c8e5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1037201306705199807
+    second: gestuga_fire_ball_0
+  - first:
+      213: 6293234670504965247
+    second: gestuga_fire_ball_1
+  - first:
+      213: -4914218959246955618
+    second: gestuga_fire_ball_2
+  - first:
+      213: -1516294308560380521
+    second: gestuga_fire_ball_3
+  - first:
+      213: 1126769912992142167
+    second: gestuga_fire_ball_4
+  - first:
+      213: -7923421231895081172
+    second: gestuga_fire_ball_5
+  - first:
+      213: 692483578620352690
+    second: gestuga_fire_ball_6
+  - first:
+      213: 3671325720165828720
+    second: gestuga_fire_ball_7
+  - first:
+      213: 2390664590347969561
+    second: gestuga_fire_ball_8
+  - first:
+      213: -3361564089816224419
+    second: gestuga_fire_ball_9
+  - first:
+      213: -453580256243390105
+    second: gestuga_fire_ball_10
+  - first:
+      213: 4769033846931607479
+    second: gestuga_fire_ball_11
+  - first:
+      213: -5581476270197753762
+    second: gestuga_fire_ball_12
+  - first:
+      213: -6294140052102720101
+    second: gestuga_fire_ball_13
+  - first:
+      213: -8219687786821614065
+    second: gestuga_fire_ball_14
+  - first:
+      213: -8131659282461986455
+    second: gestuga_fire_ball_15
+  - first:
+      213: 7409321676919567559
+    second: gestuga_fire_ball_16
+  - first:
+      213: 1827352061270578997
+    second: gestuga_fire_ball_17
+  - first:
+      213: -7697968450733430066
+    second: gestuga_fire_ball_18
+  - first:
+      213: 2702569673698860365
+    second: gestuga_fire_ball_19
+  - first:
+      213: -8917619285034407056
+    second: gestuga_fire_ball_20
+  - first:
+      213: -6189204794234884772
+    second: gestuga_fire_ball_21
+  - first:
+      213: -7603063072476814959
+    second: gestuga_fire_ball_22
+  - first:
+      213: -422397395219587339
+    second: gestuga_fire_ball_23
+  - first:
+      213: -1320411503830140346
+    second: gestuga_fire_ball_24
+  - first:
+      213: 4521896075919599538
+    second: gestuga_fire_ball_25
+  - first:
+      213: 3069461184227296040
+    second: gestuga_fire_ball_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gestuga_fire_ball_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1922
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14df34928ee1b91f0800000000000000
+      internalID: -1037201306705199807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1922
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74fe9ff69f065750800000000000000
+      internalID: 6293234670504965247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_2
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1922
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b6899a4ef2dcbb0800000000000000
+      internalID: -4914218959246955618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_3
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1922
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ddf4b2c5a05fae0800000000000000
+      internalID: -1516294308560380521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_4
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1922
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7539e77144713af00800000000000000
+      internalID: 1126769912992142167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_5
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1922
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f0b13ae5a5a0290800000000000000
+      internalID: -7923421231895081172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_6
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1922
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8157455223c9900800000000000000
+      internalID: 692483578620352690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_7
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1922
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0784d3d7a4b23f230800000000000000
+      internalID: 3671325720165828720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1666
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914abc457c85d2120800000000000000
+      internalID: 2390664590347969561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1666
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d6bc845435951d0800000000000000
+      internalID: -3361564089816224419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1666
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7696b7df82f84b9f0800000000000000
+      internalID: -453580256243390105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_11
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1666
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf4c2034030f2240800000000000000
+      internalID: 4769033846931607479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_12
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1666
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58379877ec9a82b0800000000000000
+      internalID: -5581476270197753762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_13
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1666
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95dbdb68f8b6a8a0800000000000000
+      internalID: -6294140052102720101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_14
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1666
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0681e5f18dcded80800000000000000
+      internalID: -8219687786821614065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_15
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1666
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961785a47fa862f80800000000000000
+      internalID: -8131659282461986455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1410
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c474631fc233d660800000000000000
+      internalID: 7409321676919567559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1410
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5375c9b940f0c5910800000000000000
+      internalID: 1827352061270578997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_18
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1410
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaaed9ca725b2590800000000000000
+      internalID: -7697968450733430066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_19
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1410
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d5095acc4718520800000000000000
+      internalID: 2702569673698860365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_20
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1410
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07be95102804e3480800000000000000
+      internalID: -8917619285034407056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_21
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1410
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d2c7d08078b1aa0800000000000000
+      internalID: -6189204794234884772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_22
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1410
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19121281b6e7c7690800000000000000
+      internalID: -7603063072476814959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_23
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1410
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fed2e79ec7532af0800000000000000
+      internalID: -422397395219587339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1154
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a7ddcabb4fcade0800000000000000
+      internalID: -1320411503830140346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_25
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1154
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7ab64e58001ce30800000000000000
+      internalID: 4521896075919599538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gestuga_fire_ball_26
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1154
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823c7b13faae89a20800000000000000
+      internalID: 3069461184227296040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

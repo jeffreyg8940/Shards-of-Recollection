@@ -17,9 +17,13 @@ public class Health : MonoBehaviour
 
     [Header ("Components")]
     [SerializeField] private Behaviour[] components;
+    private PlayerRespawn canRespawn;
+    private UIManager uIManager;
 
     private void Awake()
     {
+        uIManager = FindFirstObjectByType<UIManager>();
+        canRespawn = GetComponent<PlayerRespawn>();
         //refs to diff components
         anim = GetComponent<Animator>();
         CurrentHealth = startingHealth;
@@ -63,6 +67,29 @@ public class Health : MonoBehaviour
     public void playerHeal(float _value)
     {
         CurrentHealth = Mathf.Clamp(CurrentHealth + _value, 0, startingHealth);
+    }
+
+    public void Respawn()
+    {
+        // params to respawn the player from DEATH
+        if(canRespawn.currentCheckpoint != null)
+        {
+            dead = false;
+            playerHeal(startingHealth);
+            anim.ResetTrigger("death");
+            anim.Play("Idle");
+            StartCoroutine(Iframing());
+            foreach (Behaviour component in components)
+            {
+                component.enabled = true;
+            }
+        }
+        else
+        {
+            uIManager.GameOver();
+            Debug.Log("No checkpoint set");
+        }
+
     }
 
     private IEnumerator Iframing()
