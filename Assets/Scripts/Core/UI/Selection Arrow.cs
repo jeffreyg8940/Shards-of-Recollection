@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SelectionArrow : MonoBehaviour
 {
@@ -23,15 +24,17 @@ public class SelectionArrow : MonoBehaviour
         }
 
         //Interact with options
-        if(Input.GetKeyDown(KeyCode.KeypadEnter))
+        if(Input.GetKeyDown(KeyCode.E))
         {
-            
+            Debug.Log("Yep");
+            Interact();
         }
     }
 
     private void Interact()
     {
-
+        Debug.Log("Pog");
+        options[currentPos].GetComponent<Button>().onClick.Invoke();
     }
     private void ChangePosition(int _change)
     {
