@@ -17,7 +17,7 @@ public class Player_Heal : MonoBehaviour
 
     private void Update()
     {
-        if(Input.GetKeyDown(KeyCode.X) && amountOfHeals > 0)
+        if(Input.GetKeyDown(KeyCode.V) && amountOfHeals > 0)
         {
             amountOfHeals -= 1;
             healthComponent.playerHeal(HealthValue);

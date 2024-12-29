@@ -13,19 +13,20 @@ public class PlayerMelee : MonoBehaviour
     [SerializeField] private float colliderDistance;
     [SerializeField] private float damage;
     [SerializeField] private BoxCollider2D boxCollider;
-    [SerializeField] private LayerMask playerLayer;
+    [SerializeField] private LayerMask enemyLayer;
+    private PlayerMovement playerMovement; 
+
 
     private float cooldownTimer = Mathf.Infinity;
 
     private Animator anim; 
 
-    private Health playerHealth;
+    private Health enemyHealth;
 
-    private EnemyPatrol enemyPatrol;
     private void Awake()
     {
         anim = GetComponent<Animator>();
-        enemyPatrol = GetComponentInParent<EnemyPatrol>();
+        playerMovement = GetComponent<PlayerMovement>();
     }
 
     private void Update()
@@ -33,30 +34,20 @@ public class PlayerMelee : MonoBehaviour
         cooldownTimer += Time.deltaTime;
         //Attack player only when seen
 
-        if(playerInsight())
-        {
-            if(cooldownTimer >= attackCoolDown)
-            {
-                cooldownTimer = 0;
-                anim.SetTrigger("meeleeattack");
-            }
-        }
-
-        if(enemyPatrol != null)
-        {
-            enemyPatrol.enabled = !playerInsight();
-        }
+        if (Input.GetKeyDown(KeyCode.X) && cooldownTimer > attackCoolDown)
+            anim.SetTrigger("meeleeattack");
+            damageEnemy();
 
     }
 
-    private bool playerInsight()
+    private bool enemyInsight()
     {
         RaycastHit2D hit = Physics2D.BoxCast(boxCollider.bounds.center + transform.right * range * transform.localScale.x * colliderDistance, 
-        new Vector3 (boxCollider.bounds.size.x * range, boxCollider.bounds.size.y, boxCollider.bounds.size.z), 0, Vector2.left, 0, playerLayer);
+        new Vector3 (boxCollider.bounds.size.x * range, boxCollider.bounds.size.y, boxCollider.bounds.size.z), 0, Vector2.left, 0, enemyLayer);
 
         if(hit.collider != null)
         {
-            playerHealth = hit.transform.GetComponent<Health>();   
+            enemyHealth = hit.transform.GetComponent<Health>();   
         }
         return hit.collider != null;
     }
@@ -67,11 +58,12 @@ public class PlayerMelee : MonoBehaviour
         Gizmos.DrawWireCube(boxCollider.bounds.center + transform.right * range * transform.localScale.x * colliderDistance, new Vector3 (boxCollider.bounds.size.x * range, boxCollider.bounds.size.y, boxCollider.bounds.size.z));
     }
 
-    private void damagePlayer()
+    private void damageEnemy()
     {
-        if(playerInsight())
+        if(enemyInsight())
         {
-            playerHealth.takeDamage(damage);
+            enemyHealth.takeDamage(15);
+
         }
     }
 }
