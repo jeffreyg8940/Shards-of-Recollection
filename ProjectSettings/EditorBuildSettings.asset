@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Levels/OpenScene.unity
+    guid: 78169138361d8b045a1c08eaa6b6eae9
+  - enabled: 1
     path: Assets/Levels/Main_Menu.unity
     guid: 287a7871be225a14bbeb1a537e0271dd
   - enabled: 1
@@ -15,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Levels/Level2.unity
     guid: e02b392a77ee82b488ee3747c07233d5
   - enabled: 1
-    path: Assets/Levels/Level3.unity
+    path: Assets/Levels/BuffRoom_Heal.unity
     guid: b7cceedbf8425e840a3a336971dd8230
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

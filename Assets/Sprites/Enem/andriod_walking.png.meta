@@ -1,0 +1,1143 @@
+fileFormatVersion: 2
+guid: 9b14c16fbf671bb448288341379bc636
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4089126300779780421
+    second: andriod_walking_0
+  - first:
+      213: 8624758982545058576
+    second: andriod_walking_1
+  - first:
+      213: 5274382081529300578
+    second: andriod_walking_2
+  - first:
+      213: 2533910406394578130
+    second: andriod_walking_3
+  - first:
+      213: -2980366780628411516
+    second: andriod_walking_4
+  - first:
+      213: 5813609186215240570
+    second: andriod_walking_5
+  - first:
+      213: -7000213783017908383
+    second: andriod_walking_6
+  - first:
+      213: 5627752892999253126
+    second: andriod_walking_7
+  - first:
+      213: -7429672884699507290
+    second: andriod_walking_8
+  - first:
+      213: 505255907859461708
+    second: andriod_walking_9
+  - first:
+      213: 7269003988713542420
+    second: andriod_walking_10
+  - first:
+      213: -4426579692133598170
+    second: andriod_walking_11
+  - first:
+      213: 6811281897421381449
+    second: andriod_walking_12
+  - first:
+      213: -3123310976321021929
+    second: andriod_walking_13
+  - first:
+      213: 4856177687109264971
+    second: andriod_walking_14
+  - first:
+      213: 9106265048776520463
+    second: andriod_walking_15
+  - first:
+      213: -6652530683228370793
+    second: andriod_walking_16
+  - first:
+      213: 5972586102643030867
+    second: andriod_walking_17
+  - first:
+      213: -4467577205748014086
+    second: andriod_walking_18
+  - first:
+      213: 1100470161903771361
+    second: andriod_walking_19
+  - first:
+      213: -1045293664096620137
+    second: andriod_walking_20
+  - first:
+      213: 4890035602789583762
+    second: andriod_walking_21
+  - first:
+      213: 8805175410929269850
+    second: andriod_walking_22
+  - first:
+      213: -5576720782443549868
+    second: andriod_walking_23
+  - first:
+      213: -5377909107167583408
+    second: andriod_walking_24
+  - first:
+      213: -8154273040402241621
+    second: andriod_walking_25
+  - first:
+      213: -6051557773316779798
+    second: andriod_walking_26
+  - first:
+      213: 3796290714697491717
+    second: andriod_walking_27
+  - first:
+      213: -6836393697806964603
+    second: andriod_walking_28
+  - first:
+      213: 7035741880339335983
+    second: andriod_walking_29
+  - first:
+      213: 633110692340228220
+    second: andriod_walking_30
+  - first:
+      213: -8105148248265908085
+    second: andriod_walking_31
+  - first:
+      213: 7935096429606686779
+    second: andriod_walking_32
+  - first:
+      213: -8985766828370172140
+    second: andriod_walking_33
+  - first:
+      213: 2164537727799091566
+    second: andriod_walking_34
+  - first:
+      213: -4336084120877154290
+    second: andriod_walking_35
+  - first:
+      213: 7895493822579602184
+    second: andriod_walking_36
+  - first:
+      213: -8446457409173121012
+    second: andriod_walking_37
+  - first:
+      213: -5147359035544911345
+    second: andriod_walking_38
+  - first:
+      213: 1706177518803726211
+    second: andriod_walking_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: andriod_walking_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1913
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5499fa794be7fb830800000000000000
+      internalID: 4089126300779780421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1913
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b25f3499c41b770800000000000000
+      internalID: 8624758982545058576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1913
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2664d3bee8e523940800000000000000
+      internalID: 5274382081529300578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_3
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1914
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d480d1e6124a2320800000000000000
+      internalID: 2533910406394578130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_4
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1914
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bd444243c93a6d0800000000000000
+      internalID: -2980366780628411516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_5
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1913
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73ae47c0c61ea050800000000000000
+      internalID: 5813609186215240570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_6
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1913
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1679c6f27ae3ade90800000000000000
+      internalID: -7000213783017908383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_7
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1913
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cb5e6607bc91e40800000000000000
+      internalID: 5627752892999253126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1657
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5522e10ef74e890800000000000000
+      internalID: -7429672884699507290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1657
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4671ac3297030700800000000000000
+      internalID: 505255907859461708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_10
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1657
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4131b2a6d90b0e460800000000000000
+      internalID: 7269003988713542420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1657
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c3b681931a192c0800000000000000
+      internalID: -4426579692133598170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_12
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1657
+        width: 33
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f99d84cc8868e50800000000000000
+      internalID: 6811281897421381449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_13
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1657
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7189e4d0735c7a4d0800000000000000
+      internalID: -3123310976321021929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_14
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1658
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46635690eb946340800000000000000
+      internalID: 4856177687109264971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_15
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1658
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0331e690d3ff5e70800000000000000
+      internalID: 9106265048776520463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1402
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79849c817967da3a0800000000000000
+      internalID: -6652530683228370793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1402
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bf87e8a63e2e250800000000000000
+      internalID: 5972586102643030867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1402
+        width: 52
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3e1cc933afff1c0800000000000000
+      internalID: -4467577205748014086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_19
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1402
+        width: 52
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eed03e18c7a54f00800000000000000
+      internalID: 1100470161903771361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_20
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1403
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791fd8163fe5e71f0800000000000000
+      internalID: -1045293664096620137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_21
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1403
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b4943e875ecd340800000000000000
+      internalID: 4890035602789583762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_22
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1403
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c71796264423a70800000000000000
+      internalID: 8805175410929269850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_23
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1403
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45be9eebef18b92b0800000000000000
+      internalID: -5576720782443549868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1146
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05320f01924dd55b0800000000000000
+      internalID: -5377909107167583408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1146
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7a7497fd336de80800000000000000
+      internalID: -8154273040402241621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_26
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1145
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae013b7844c840ca0800000000000000
+      internalID: -6051557773316779798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_27
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1145
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50568a99a422fa430800000000000000
+      internalID: 3796290714697491717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_28
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1145
+        width: 33
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5882f7117204021a0800000000000000
+      internalID: -6836393697806964603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_29
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1145
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b07f496f9f3a160800000000000000
+      internalID: 7035741880339335983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_30
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1144
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70e07002d249c800800000000000000
+      internalID: 633110692340228220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_31
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1144
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b802b327c9ab48f80800000000000000
+      internalID: -8105148248265908085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 887
+        width: 32
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b305d2929202f1e60800000000000000
+      internalID: 7935096429606686779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_33
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 887
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417e180ada42c4380800000000000000
+      internalID: -8985766828370172140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_34
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 887
+        width: 42
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e616560689bf90e10800000000000000
+      internalID: 2164537727799091566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_35
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 888
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00c7e2377223d3c0800000000000000
+      internalID: -4336084120877154290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_36
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 890
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803f52daccd629d60800000000000000
+      internalID: 7895493822579602184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_37
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 892
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0815c3dcb728ca80800000000000000
+      internalID: -8446457409173121012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_38
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 893
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02c2f2aa38e098b0800000000000000
+      internalID: -5147359035544911345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_walking_39
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 893
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fad04e96f8da710800000000000000
+      internalID: 1706177518803726211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

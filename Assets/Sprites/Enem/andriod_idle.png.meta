@@ -1,0 +1,1168 @@
+fileFormatVersion: 2
+guid: b8278c53cbdf12341862792df95fb864
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3756061955213517156
+    second: andriod_idle_0
+  - first:
+      213: -6391973884395546781
+    second: andriod_idle_1
+  - first:
+      213: -3963116293128409617
+    second: andriod_idle_2
+  - first:
+      213: -5980962112871395930
+    second: andriod_idle_3
+  - first:
+      213: -5290717077526463410
+    second: andriod_idle_4
+  - first:
+      213: 3228320826370894357
+    second: andriod_idle_5
+  - first:
+      213: 6449939127772023523
+    second: andriod_idle_6
+  - first:
+      213: -2171608085626346519
+    second: andriod_idle_7
+  - first:
+      213: -3186520195099085565
+    second: andriod_idle_8
+  - first:
+      213: 529955656320544522
+    second: andriod_idle_9
+  - first:
+      213: -6744696503314013392
+    second: andriod_idle_10
+  - first:
+      213: -7250511669308673314
+    second: andriod_idle_11
+  - first:
+      213: -3390924019921011035
+    second: andriod_idle_12
+  - first:
+      213: -4111081395779238043
+    second: andriod_idle_13
+  - first:
+      213: 6552858282714239227
+    second: andriod_idle_14
+  - first:
+      213: -8197336438634260582
+    second: andriod_idle_15
+  - first:
+      213: 8271336173382325032
+    second: andriod_idle_16
+  - first:
+      213: 7450891221627940344
+    second: andriod_idle_17
+  - first:
+      213: -1924465875340295724
+    second: andriod_idle_18
+  - first:
+      213: 5389479412569979218
+    second: andriod_idle_19
+  - first:
+      213: -1408564625895567989
+    second: andriod_idle_20
+  - first:
+      213: 6702095325199170824
+    second: andriod_idle_21
+  - first:
+      213: 2335427383246375700
+    second: andriod_idle_22
+  - first:
+      213: 4226312971648826689
+    second: andriod_idle_23
+  - first:
+      213: 8043421682951030994
+    second: andriod_idle_24
+  - first:
+      213: -1341838315171662962
+    second: andriod_idle_25
+  - first:
+      213: 4044405369117575657
+    second: andriod_idle_26
+  - first:
+      213: 3619999114912422866
+    second: andriod_idle_27
+  - first:
+      213: -3620745584701608486
+    second: andriod_idle_28
+  - first:
+      213: 553335452689282537
+    second: andriod_idle_29
+  - first:
+      213: 5308916425308322248
+    second: andriod_idle_30
+  - first:
+      213: 1178717569977808198
+    second: andriod_idle_31
+  - first:
+      213: -5992101246033110379
+    second: andriod_idle_32
+  - first:
+      213: -2468907032334889780
+    second: andriod_idle_33
+  - first:
+      213: 1767901352312445499
+    second: andriod_idle_34
+  - first:
+      213: 8810497528207562928
+    second: andriod_idle_35
+  - first:
+      213: 5159418876531298311
+    second: andriod_idle_36
+  - first:
+      213: -3689593594512704216
+    second: andriod_idle_37
+  - first:
+      213: -7669667113181046533
+    second: andriod_idle_38
+  - first:
+      213: 4585356063856837157
+    second: andriod_idle_39
+  - first:
+      213: -8464345526713187678
+    second: andriod_idle_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: andriod_idle_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1919
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4616cd2a276302430800000000000000
+      internalID: 3756061955213517156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1919
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36797074e952b47a0800000000000000
+      internalID: -6391973884395546781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_2
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1919
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda4889abe2009c0800000000000000
+      internalID: -3963116293128409617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1919
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad0b3795aa5ffca0800000000000000
+      internalID: -5980962112871395930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1919
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c31f279d89396b0800000000000000
+      internalID: -5290717077526463410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1919
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a25dcefac4dcc20800000000000000
+      internalID: 3228320826370894357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1919
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea8eb5a679c28950800000000000000
+      internalID: 6449939127772023523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1919
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e320e8a3f5ecd1e0800000000000000
+      internalID: -2171608085626346519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1663
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305b285f3c437c3d0800000000000000
+      internalID: -3186520195099085565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1663
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fe1b19cd7ca5700800000000000000
+      internalID: 529955656320544522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1663
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0332622e3460662a0800000000000000
+      internalID: -6744696503314013392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1663
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed238073d02016b90800000000000000
+      internalID: -7250511669308673314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1663
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeb44cd19401f0d0800000000000000
+      internalID: -3390924019921011035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1663
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5678cd1804182f6c0800000000000000
+      internalID: -4111081395779238043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1663
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf098acb3ed60fa50800000000000000
+      internalID: 6552858282714239227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1663
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97d6deb0f53d3e80800000000000000
+      internalID: -8197336438634260582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1407
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823da402d60b9c270800000000000000
+      internalID: 8271336173382325032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1407
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fda53de612e66760800000000000000
+      internalID: 7450891221627940344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_18
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1407
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d10bfd8b7cea45e0800000000000000
+      internalID: -1924465875340295724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_19
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1407
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259b38698f64bca40800000000000000
+      internalID: 5389479412569979218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_20
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1407
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d40568fe5c37ce0800000000000000
+      internalID: -1408564625895567989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_21
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1407
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d7d456030a20d50800000000000000
+      internalID: 6702095325199170824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1407
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bce19d4da196020800000000000000
+      internalID: 2335427383246375700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_23
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1407
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14df0c87141e6aa30800000000000000
+      internalID: 4226312971648826689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1151
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d888fe9769ff9f60800000000000000
+      internalID: 8043421682951030994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1151
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e833f266925d06de0800000000000000
+      internalID: -1341838315171662962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_26
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1151
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e98fe9414d902830800000000000000
+      internalID: 4044405369117575657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_27
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1151
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db5593f302dc3230800000000000000
+      internalID: 3619999114912422866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1151
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addebc1031780cdc0800000000000000
+      internalID: -3620745584701608486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_29
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1151
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5bc2b99a7dda700800000000000000
+      internalID: 553335452689282537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_30
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1151
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c93db86c5f0da940800000000000000
+      internalID: 5308916425308322248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_31
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1151
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645f9018265ab5010800000000000000
+      internalID: 1178717569977808198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 895
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a550c0aa7c7dca0800000000000000
+      internalID: -5992101246033110379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_33
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 895
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc073a822eacbdd0800000000000000
+      internalID: -2468907032334889780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_34
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 895
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a1486c9e8d88810800000000000000
+      internalID: 1767901352312445499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_35
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 895
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8d44762dc254a70800000000000000
+      internalID: 8810497528207562928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_36
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 895
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700d717e120f99740800000000000000
+      internalID: 5159418876531298311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_37
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 895
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d73819c2eebccc0800000000000000
+      internalID: -3689593594512704216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_38
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 895
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8195d656edf8590800000000000000
+      internalID: -7669667113181046533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_39
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 895
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522cedabb0572af30800000000000000
+      internalID: 4585356063856837157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_idle_40
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 639
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a20818e69a988a80800000000000000
+      internalID: -8464345526713187678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

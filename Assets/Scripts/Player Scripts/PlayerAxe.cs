@@ -20,15 +20,15 @@ public class PlayerAxe : MonoBehaviour
     private void Update() 
     {
         if (Input.GetKeyDown(KeyCode.C) && cooldownTimer > AttackCooldown && playerMovement.canAttack())
-            Attack();
+            anim.SetTrigger("attack_axe");
+            
         
         cooldownTimer += Time.deltaTime;
     }
 
-    private void Attack() 
+    private void attack_axe() 
     {
         Debug.Log("attack intiated");
-        anim.SetTrigger("attack_axe");
         cooldownTimer = 0;
         //pool fireballs
         fireballs[FindFireBalls()].transform.position = firePoint.position;
