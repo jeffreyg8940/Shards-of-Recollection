@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5fa7272cd895a748bfaf16d07529ecc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingHealth: 50
+  startingHealth: 30
   iFrameDuration: 0
   numbofFlashes: 0
   components:
