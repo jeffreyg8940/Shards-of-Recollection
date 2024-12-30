@@ -8,6 +8,7 @@ public class PlayerMelee : MonoBehaviour
     // setting up variables
     [Header("Attack Params")]
     [SerializeField] private float attackCoolDown;
+    private bool hasDamaged = false;
     [SerializeField] private float range;
     [Header("collider Params")]
     [SerializeField] private float colliderDistance;
@@ -31,12 +32,16 @@ public class PlayerMelee : MonoBehaviour
 
     private void Update()
     {
-        cooldownTimer += Time.deltaTime;
         //Attack player only when seen
 
         if (Input.GetKeyDown(KeyCode.X) && cooldownTimer > attackCoolDown)
+        {
             anim.SetTrigger("meeleeattack");
-            damageEnemy();
+            hasDamaged = false;
+            cooldownTimer = 0;
+        }
+
+        cooldownTimer += Time.deltaTime;
 
     }
 
@@ -62,8 +67,9 @@ public class PlayerMelee : MonoBehaviour
     {
         if(enemyInsight())
         {
-            enemyHealth.takeDamage(15);
-
+            if (!hasDamaged && enemyInsight())
+                enemyHealth.takeDamage(damage);
+                hasDamaged = true;
         }
     }
 }

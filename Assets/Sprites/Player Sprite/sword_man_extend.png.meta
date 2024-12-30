@@ -1,0 +1,1168 @@
+fileFormatVersion: 2
+guid: f0dae141c462cd447be67e718d049986
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3493354544663940577
+    second: sword_man_extend_0
+  - first:
+      213: 2019436697702190748
+    second: sword_man_extend_1
+  - first:
+      213: -4902766776696758810
+    second: sword_man_extend_2
+  - first:
+      213: -7518654869687635501
+    second: sword_man_extend_3
+  - first:
+      213: 1550847694669776055
+    second: sword_man_extend_4
+  - first:
+      213: -6088018620638688600
+    second: sword_man_extend_5
+  - first:
+      213: 5349687516351425825
+    second: sword_man_extend_6
+  - first:
+      213: 7494282814388159508
+    second: sword_man_extend_7
+  - first:
+      213: -56268934355320324
+    second: sword_man_extend_8
+  - first:
+      213: 7637942394057962067
+    second: sword_man_extend_9
+  - first:
+      213: 7690879796149439852
+    second: sword_man_extend_10
+  - first:
+      213: -5773322122268798337
+    second: sword_man_extend_11
+  - first:
+      213: 3227095026653960068
+    second: sword_man_extend_12
+  - first:
+      213: 6308364539753746864
+    second: sword_man_extend_13
+  - first:
+      213: 8710448073525033537
+    second: sword_man_extend_14
+  - first:
+      213: 7865355526374564575
+    second: sword_man_extend_15
+  - first:
+      213: 1026735374788522335
+    second: sword_man_extend_16
+  - first:
+      213: 7538316956288384430
+    second: sword_man_extend_17
+  - first:
+      213: -9122435887672353468
+    second: sword_man_extend_18
+  - first:
+      213: 9124997179795836943
+    second: sword_man_extend_19
+  - first:
+      213: -8418280916270025760
+    second: sword_man_extend_20
+  - first:
+      213: -1041470390142824640
+    second: sword_man_extend_21
+  - first:
+      213: 6746079799993991319
+    second: sword_man_extend_22
+  - first:
+      213: 8081100154456374589
+    second: sword_man_extend_23
+  - first:
+      213: -6582416371900090396
+    second: sword_man_extend_24
+  - first:
+      213: -3192025296391678486
+    second: sword_man_extend_25
+  - first:
+      213: -7345650928691785080
+    second: sword_man_extend_26
+  - first:
+      213: -2615003575108658437
+    second: sword_man_extend_27
+  - first:
+      213: -4965458458181381086
+    second: sword_man_extend_28
+  - first:
+      213: 318571102117015717
+    second: sword_man_extend_29
+  - first:
+      213: 1955841240020152482
+    second: sword_man_extend_30
+  - first:
+      213: -1987342064919646388
+    second: sword_man_extend_31
+  - first:
+      213: 5852495350800119713
+    second: sword_man_extend_32
+  - first:
+      213: 8808068714998977317
+    second: sword_man_extend_33
+  - first:
+      213: -3798134967494452808
+    second: sword_man_extend_34
+  - first:
+      213: 7121802091045569709
+    second: sword_man_extend_35
+  - first:
+      213: -3042399040824173211
+    second: sword_man_extend_36
+  - first:
+      213: -1364094794102271153
+    second: sword_man_extend_37
+  - first:
+      213: 5189729298401781894
+    second: sword_man_extend_38
+  - first:
+      213: 5444357688780400070
+    second: sword_man_extend_39
+  - first:
+      213: 5544667731781328234
+    second: sword_man_extend_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword_man_extend_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1920
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edc0352373ea7030800000000000000
+      internalID: 3493354544663940577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1920
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e4de42afa760c10800000000000000
+      internalID: 2019436697702190748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1920
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed1762b79fd5fbb0800000000000000
+      internalID: -4902766776696758810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1920
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1f1874b3f58a790800000000000000
+      internalID: -7518654869687635501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_4
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1920
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b48685f2c7b58510800000000000000
+      internalID: 1550847694669776055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_5
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1920
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa0edaf153038ba0800000000000000
+      internalID: -6088018620638688600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_6
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1920
+        width: 48
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12de777c378ed3a40800000000000000
+      internalID: 5349687516351425825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_7
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1920
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414cbe5638a010860800000000000000
+      internalID: 7494282814388159508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf18cdbc3b7183ff0800000000000000
+      internalID: -56268934355320324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1664
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352b8bcc32c6ff960800000000000000
+      internalID: 7637942394057962067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1664
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d47b33d6e7bba60800000000000000
+      internalID: 7690879796149439852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_11
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1664
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7293404e1a01efa0800000000000000
+      internalID: -5773322122268798337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_12
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1664
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487932034d1f8cc20800000000000000
+      internalID: 3227095026653960068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_13
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1664
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b151b13020db8750800000000000000
+      internalID: 6308364539753746864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_14
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1664
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14af1f87f5ab1e870800000000000000
+      internalID: 8710448073525033537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_15
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1664
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd226b5cd2b572d60800000000000000
+      internalID: 7865355526374564575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1408
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51f89c2262bf3e00800000000000000
+      internalID: 1026735374788522335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_17
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1408
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead7fdff45b7d9860800000000000000
+      internalID: 7538316956288384430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_18
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1408
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d930594e8966180800000000000000
+      internalID: -9122435887672353468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_19
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1408
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f001c26b69082ae70800000000000000
+      internalID: 9124997179795836943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_20
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1408
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3764ecb124c2b80800000000000000
+      internalID: -8418280916270025760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_21
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1408
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f0377b234fb81f0800000000000000
+      internalID: -1041470390142824640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_22
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1408
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7908419f5d3ee9d50800000000000000
+      internalID: 6746079799993991319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_23
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1408
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3df9b466c5d52070800000000000000
+      internalID: 8081100154456374589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1152
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7fd255f2f86a4a0800000000000000
+      internalID: -6582416371900090396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_25
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1152
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5538ea7e5a3b3d0800000000000000
+      internalID: -3192025296391678486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_26
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1152
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882de4736610f0a90800000000000000
+      internalID: -7345650928691785080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_27
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1152
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa95437a14a5bbd0800000000000000
+      internalID: -2615003575108658437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_28
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1152
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224d32527d5271bb0800000000000000
+      internalID: -4965458458181381086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_29
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1152
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0b361cabacb6400800000000000000
+      internalID: 318571102117015717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_30
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1152
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0f57cce3b842b10800000000000000
+      internalID: 1955841240020152482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_31
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1152
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fe54ddbea8b64e0800000000000000
+      internalID: -1987342064919646388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 896
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7f012838d383150800000000000000
+      internalID: 5852495350800119713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 896
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523deb244db8c3a70800000000000000
+      internalID: 8808068714998977317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_34
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 896
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9d085de505a4bc0800000000000000
+      internalID: -3798134967494452808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_35
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 896
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4c765d449b5d260800000000000000
+      internalID: 7121802091045569709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_36
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 896
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d9fa2113a37c5d0800000000000000
+      internalID: -3042399040824173211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_37
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 896
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4313951303c11de0800000000000000
+      internalID: -1364094794102271153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_38
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 896
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688ecafec4f950840800000000000000
+      internalID: 5189729298401781894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_39
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 896
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c52ce5f87e3e8b40800000000000000
+      internalID: 5444357688780400070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_man_extend_40
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 640
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d9566dced92fc40800000000000000
+      internalID: 5544667731781328234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

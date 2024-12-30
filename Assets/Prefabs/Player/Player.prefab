@@ -49,6 +49,8 @@ GameObject:
   - component: {fileID: 8183569149688892405}
   - component: {fileID: 8270140758730117710}
   - component: {fileID: 3275051523058314392}
+  - component: {fileID: 4501154297815658780}
+  - component: {fileID: 5002804679878822406}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -116,7 +118,7 @@ SpriteRenderer:
   m_SortingLayerID: 1231799117
   m_SortingLayer: 4
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a70b3fff8c0d54e41b799a19a9a33a3f, type: 3}
+  m_Sprite: {fileID: -2936946241164988128, guid: 778b2266d319ee24e869162639448221, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -288,17 +290,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.005221069, y: 0.0075033605}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.32, y: 0.32}
+    oldSize: {x: 0.42, y: 0.89}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.32, y: 0.32}
+  m_Size: {x: 0.33044213, y: 0.7787976}
   m_EdgeRadius: 0
 --- !u!114 &3275051523058314392
 MonoBehaviour:
@@ -312,3 +314,49 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2b3569b683e50345824c680122d6972, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  currentCheckpoint: {fileID: 0}
+--- !u!114 &4501154297815658780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8995365932325003332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 444691fd730ac2b4d83cba59973cfa59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackCoolDown: 1
+  range: 2.52
+  colliderDistance: 0.28
+  damage: 15
+  boxCollider: {fileID: 8270140758730117710}
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 512
+--- !u!114 &5002804679878822406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8995365932325003332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2c716165373584ba70888f0a75b732, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireballs:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  firePoint: {fileID: 4166025572324365241}
+  AttackCooldown: 10
