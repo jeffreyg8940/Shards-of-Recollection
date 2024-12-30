@@ -32,6 +32,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Levels/MemAxe.unity
     guid: 9d44ec7f4bc2e394b83650d65bcb6be1
+  - enabled: 1
+    path: Assets/Levels/Exposition.unity
+    guid: 0e3f5da18fc65834790dd9883d5ceeeb
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
