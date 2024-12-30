@@ -760,7 +760,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      adriod_attack_0: -8733519029028940496
+      adriod_attack_1: -7179527627779650602
+      adriod_attack_10: 8494237377318657106
+      adriod_attack_11: 2214336654452462934
+      adriod_attack_12: 6963447033184171610
+      adriod_attack_13: 4313571847125953865
+      adriod_attack_14: -1681497430632226795
+      adriod_attack_15: -4345708746847066789
+      adriod_attack_16: -5412674484619466424
+      adriod_attack_17: -6986735292771415868
+      adriod_attack_18: -109152237975238879
+      adriod_attack_19: 6853262533970720321
+      adriod_attack_2: 4421824024552617680
+      adriod_attack_20: -2147067130730726375
+      adriod_attack_21: -2737274333041571613
+      adriod_attack_22: -1544433147589445987
+      adriod_attack_23: 3979934039748934465
+      adriod_attack_24: 4133291025315838808
+      adriod_attack_3: -4549817519335113108
+      adriod_attack_4: 3592882640298960981
+      adriod_attack_5: 8398290512997787678
+      adriod_attack_6: 4497815893880846356
+      adriod_attack_7: 2244697386705886590
+      adriod_attack_8: -8906301312236838659
+      adriod_attack_9: 6394175104489536197
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

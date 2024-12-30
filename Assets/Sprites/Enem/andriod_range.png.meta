@@ -910,7 +910,38 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      andriod_range_0: 3448472578092073301
+      andriod_range_1: -5728511907988692578
+      andriod_range_10: -3995583278641806084
+      andriod_range_11: 9154107748747241896
+      andriod_range_12: -2781484462556057384
+      andriod_range_13: -994868840620184041
+      andriod_range_14: -4695417920122637309
+      andriod_range_15: -5616345236398166382
+      andriod_range_16: -4408905585615676746
+      andriod_range_17: -6522072137454190354
+      andriod_range_18: 9071782386425661526
+      andriod_range_19: 4876532309917032170
+      andriod_range_2: -9201700096878650086
+      andriod_range_20: -5031834502759150310
+      andriod_range_21: -22998673591202233
+      andriod_range_22: 5766246850877206731
+      andriod_range_23: 912871833212989779
+      andriod_range_24: -7967800682227797669
+      andriod_range_25: 6106216813934039542
+      andriod_range_26: -2522895185806652814
+      andriod_range_27: -5120165254121540460
+      andriod_range_28: -9008960621836312953
+      andriod_range_29: 4031656591510214913
+      andriod_range_3: -8277562456716733171
+      andriod_range_30: 638212770347262614
+      andriod_range_4: 2082162268067106057
+      andriod_range_5: -5801703019426599851
+      andriod_range_6: 953808109493545018
+      andriod_range_7: -970647942943968614
+      andriod_range_8: -2574917209741854122
+      andriod_range_9: -7067668965880781657
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

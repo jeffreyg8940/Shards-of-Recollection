@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dead_man_0: 5543743395278603228
+      dead_man_1: -2123042778773118904
+      dead_man_10: 1739344068435460873
+      dead_man_11: -86648547824862845
+      dead_man_12: -7904828807011496260
+      dead_man_13: 7770279186271777308
+      dead_man_14: 3899101912454983577
+      dead_man_15: -3041376829708319862
+      dead_man_16: 8868295553009651843
+      dead_man_17: 6259882105957371295
+      dead_man_18: 1874041902471467598
+      dead_man_19: -9155161225635298438
+      dead_man_2: 7002936860883805542
+      dead_man_20: -7966526299998662291
+      dead_man_21: 4065488689654292715
+      dead_man_22: 7342880865744201780
+      dead_man_23: 47851197105417591
+      dead_man_24: 1256096593509971358
+      dead_man_25: -4565574537883296596
+      dead_man_26: 4945815643454232508
+      dead_man_27: -8719348816637795275
+      dead_man_28: -3891310534030954457
+      dead_man_29: 7354377967510524703
+      dead_man_3: -1694964514066379521
+      dead_man_4: -6474202287190098306
+      dead_man_5: 4541454873082712198
+      dead_man_6: 8662424832927692328
+      dead_man_7: -5050519465493941806
+      dead_man_8: -7575832598598809620
+      dead_man_9: -1663337187623843106
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

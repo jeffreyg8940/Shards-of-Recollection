@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hotrod_idle_0: 4706199743312727801
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

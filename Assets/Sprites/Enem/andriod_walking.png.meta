@@ -1135,7 +1135,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      andriod_walking_0: 4089126300779780421
+      andriod_walking_1: 8624758982545058576
+      andriod_walking_10: 7269003988713542420
+      andriod_walking_11: -4426579692133598170
+      andriod_walking_12: 6811281897421381449
+      andriod_walking_13: -3123310976321021929
+      andriod_walking_14: 4856177687109264971
+      andriod_walking_15: 9106265048776520463
+      andriod_walking_16: -6652530683228370793
+      andriod_walking_17: 5972586102643030867
+      andriod_walking_18: -4467577205748014086
+      andriod_walking_19: 1100470161903771361
+      andriod_walking_2: 5274382081529300578
+      andriod_walking_20: -1045293664096620137
+      andriod_walking_21: 4890035602789583762
+      andriod_walking_22: 8805175410929269850
+      andriod_walking_23: -5576720782443549868
+      andriod_walking_24: -5377909107167583408
+      andriod_walking_25: -8154273040402241621
+      andriod_walking_26: -6051557773316779798
+      andriod_walking_27: 3796290714697491717
+      andriod_walking_28: -6836393697806964603
+      andriod_walking_29: 7035741880339335983
+      andriod_walking_3: 2533910406394578130
+      andriod_walking_30: 633110692340228220
+      andriod_walking_31: -8105148248265908085
+      andriod_walking_32: 7935096429606686779
+      andriod_walking_33: -8985766828370172140
+      andriod_walking_34: 2164537727799091566
+      andriod_walking_35: -4336084120877154290
+      andriod_walking_36: 7895493822579602184
+      andriod_walking_37: -8446457409173121012
+      andriod_walking_38: -5147359035544911345
+      andriod_walking_39: 1706177518803726211
+      andriod_walking_4: -2980366780628411516
+      andriod_walking_5: 5813609186215240570
+      andriod_walking_6: -7000213783017908383
+      andriod_walking_7: 5627752892999253126
+      andriod_walking_8: -7429672884699507290
+      andriod_walking_9: 505255907859461708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

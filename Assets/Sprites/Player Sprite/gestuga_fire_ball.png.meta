@@ -810,7 +810,34 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gestuga_fire_ball_0: -1037201306705199807
+      gestuga_fire_ball_1: 6293234670504965247
+      gestuga_fire_ball_10: -453580256243390105
+      gestuga_fire_ball_11: 4769033846931607479
+      gestuga_fire_ball_12: -5581476270197753762
+      gestuga_fire_ball_13: -6294140052102720101
+      gestuga_fire_ball_14: -8219687786821614065
+      gestuga_fire_ball_15: -8131659282461986455
+      gestuga_fire_ball_16: 7409321676919567559
+      gestuga_fire_ball_17: 1827352061270578997
+      gestuga_fire_ball_18: -7697968450733430066
+      gestuga_fire_ball_19: 2702569673698860365
+      gestuga_fire_ball_2: -4914218959246955618
+      gestuga_fire_ball_20: -8917619285034407056
+      gestuga_fire_ball_21: -6189204794234884772
+      gestuga_fire_ball_22: -7603063072476814959
+      gestuga_fire_ball_23: -422397395219587339
+      gestuga_fire_ball_24: -1320411503830140346
+      gestuga_fire_ball_25: 4521896075919599538
+      gestuga_fire_ball_26: 3069461184227296040
+      gestuga_fire_ball_3: -1516294308560380521
+      gestuga_fire_ball_4: 1126769912992142167
+      gestuga_fire_ball_5: -7923421231895081172
+      gestuga_fire_ball_6: 692483578620352690
+      gestuga_fire_ball_7: 3671325720165828720
+      gestuga_fire_ball_8: 2390664590347969561
+      gestuga_fire_ball_9: -3361564089816224419
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

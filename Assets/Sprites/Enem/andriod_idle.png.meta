@@ -1160,7 +1160,48 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      andriod_idle_0: 3756061955213517156
+      andriod_idle_1: -6391973884395546781
+      andriod_idle_10: -6744696503314013392
+      andriod_idle_11: -7250511669308673314
+      andriod_idle_12: -3390924019921011035
+      andriod_idle_13: -4111081395779238043
+      andriod_idle_14: 6552858282714239227
+      andriod_idle_15: -8197336438634260582
+      andriod_idle_16: 8271336173382325032
+      andriod_idle_17: 7450891221627940344
+      andriod_idle_18: -1924465875340295724
+      andriod_idle_19: 5389479412569979218
+      andriod_idle_2: -3963116293128409617
+      andriod_idle_20: -1408564625895567989
+      andriod_idle_21: 6702095325199170824
+      andriod_idle_22: 2335427383246375700
+      andriod_idle_23: 4226312971648826689
+      andriod_idle_24: 8043421682951030994
+      andriod_idle_25: -1341838315171662962
+      andriod_idle_26: 4044405369117575657
+      andriod_idle_27: 3619999114912422866
+      andriod_idle_28: -3620745584701608486
+      andriod_idle_29: 553335452689282537
+      andriod_idle_3: -5980962112871395930
+      andriod_idle_30: 5308916425308322248
+      andriod_idle_31: 1178717569977808198
+      andriod_idle_32: -5992101246033110379
+      andriod_idle_33: -2468907032334889780
+      andriod_idle_34: 1767901352312445499
+      andriod_idle_35: 8810497528207562928
+      andriod_idle_36: 5159418876531298311
+      andriod_idle_37: -3689593594512704216
+      andriod_idle_38: -7669667113181046533
+      andriod_idle_39: 4585356063856837157
+      andriod_idle_4: -5290717077526463410
+      andriod_idle_40: -8464345526713187678
+      andriod_idle_5: 3228320826370894357
+      andriod_idle_6: 6449939127772023523
+      andriod_idle_7: -2171608085626346519
+      andriod_idle_8: -3186520195099085565
+      andriod_idle_9: 529955656320544522
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
