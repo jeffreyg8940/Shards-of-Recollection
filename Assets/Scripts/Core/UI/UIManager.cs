@@ -26,6 +26,7 @@ public class UIManager : MonoBehaviour
 
     public void GameOver()
     {
+        Time.timeScale = 0;
         HealthBar.SetActive(false);
         gameOverScreen.SetActive(true); 
         // SoundManager.instance.PlaySound(gameOverSound);
@@ -33,16 +34,19 @@ public class UIManager : MonoBehaviour
 
     public void Restart()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void Quitter()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(0);
     }
 
     public void closeAppDude()
     {
+        Time.timeScale = 1;
         Application.Quit();
     }
     #endregion

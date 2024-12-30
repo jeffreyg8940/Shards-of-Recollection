@@ -15,6 +15,11 @@ public class CameraController : MonoBehaviour
     [SerializeField] private float cameraSpeed;
     private float lookAhead;
 
+    [SerializeField] private float minX;
+    [SerializeField] private float maxX;
+    [SerializeField] private float minY;
+    [SerializeField] private float maxY;
+
     private void Update()
     {
         //room controller
@@ -24,6 +29,9 @@ public class CameraController : MonoBehaviour
         transform.position = Vector3.Lerp(transform.position, targetPosition, Time.deltaTime * cameraSpeed);
         lookAhead = Mathf.Lerp(lookAhead, (aheadDistance * player.localScale.x), Time.deltaTime * cameraSpeed);
 
+        float clampedX = Mathf.Clamp(transform.position.x, minX, maxX);
+        float clampedY = Mathf.Clamp(transform.position.y, minY, maxY);
+        transform.position = new Vector3(clampedX, clampedY, transform.position.z);
         // transform.position = new Vector3(player.position.x + lookAhead, transform.position.y, transform.position.z);
         // lookAhead = Mathf.Lerp(lookAhead, (aheadDistance * player.localScale.x), Time.deltaTime * cameraSpeed);
     }
