@@ -1,0 +1,1168 @@
+fileFormatVersion: 2
+guid: 033462f21b505714b991013d16008b27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3904923209377556482
+    second: andriod_fire_0
+  - first:
+      213: 3529818102900978702
+    second: andriod_fire_1
+  - first:
+      213: 3674194647099997981
+    second: andriod_fire_2
+  - first:
+      213: -964906015704392190
+    second: andriod_fire_3
+  - first:
+      213: -7738319961644776477
+    second: andriod_fire_4
+  - first:
+      213: -900919916258153049
+    second: andriod_fire_5
+  - first:
+      213: 4375136469814004945
+    second: andriod_fire_6
+  - first:
+      213: 3370241951032289051
+    second: andriod_fire_7
+  - first:
+      213: 5697858402302693990
+    second: andriod_fire_8
+  - first:
+      213: -644204810398616694
+    second: andriod_fire_9
+  - first:
+      213: 7080962119451401062
+    second: andriod_fire_10
+  - first:
+      213: -2104350386095655076
+    second: andriod_fire_11
+  - first:
+      213: -7748979034807559249
+    second: andriod_fire_12
+  - first:
+      213: 8976126736863649744
+    second: andriod_fire_13
+  - first:
+      213: 3970829358398203655
+    second: andriod_fire_14
+  - first:
+      213: 7016629605596617997
+    second: andriod_fire_15
+  - first:
+      213: -1720134679342108794
+    second: andriod_fire_16
+  - first:
+      213: -733377961799971135
+    second: andriod_fire_17
+  - first:
+      213: 4720326933760184984
+    second: andriod_fire_18
+  - first:
+      213: -4375528270416208510
+    second: andriod_fire_19
+  - first:
+      213: -2884657201948068242
+    second: andriod_fire_20
+  - first:
+      213: 1423054706170778315
+    second: andriod_fire_21
+  - first:
+      213: 2271438806615899461
+    second: andriod_fire_22
+  - first:
+      213: -5716856032199065259
+    second: andriod_fire_23
+  - first:
+      213: -1401179233855989215
+    second: andriod_fire_24
+  - first:
+      213: 5256615780728619923
+    second: andriod_fire_25
+  - first:
+      213: -3437809641832300498
+    second: andriod_fire_26
+  - first:
+      213: 842185453662402071
+    second: andriod_fire_27
+  - first:
+      213: -3400980276792654333
+    second: andriod_fire_28
+  - first:
+      213: 4396410403333122519
+    second: andriod_fire_29
+  - first:
+      213: 3067952118477605806
+    second: andriod_fire_30
+  - first:
+      213: 5821021267689752676
+    second: andriod_fire_31
+  - first:
+      213: -7753083452043016628
+    second: andriod_fire_32
+  - first:
+      213: -5895491330596563241
+    second: andriod_fire_33
+  - first:
+      213: 506698999919812269
+    second: andriod_fire_34
+  - first:
+      213: 5148624661362810476
+    second: andriod_fire_35
+  - first:
+      213: -1600998364474516620
+    second: andriod_fire_36
+  - first:
+      213: -3812343714986371000
+    second: andriod_fire_37
+  - first:
+      213: 3404172244786156968
+    second: andriod_fire_38
+  - first:
+      213: 6739202829764307480
+    second: andriod_fire_39
+  - first:
+      213: 4234765510862212384
+    second: andriod_fire_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: andriod_fire_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1956
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef75fddb70deec9c0800000000000000
+      internalID: -3904923209377556482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1956
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04f721ecde6cf030800000000000000
+      internalID: 3529818102900978702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_2
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1955
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f7908909c5df230800000000000000
+      internalID: 3674194647099997981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_3
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1956
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e5d4c4717fb92f0800000000000000
+      internalID: -964906015704392190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_4
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1956
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e349d78ef6fb9490800000000000000
+      internalID: -7738319961644776477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_5
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1956
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adab540c1a4f73f0800000000000000
+      internalID: -900919916258153049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_6
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1955
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcce17507b97bc30800000000000000
+      internalID: 4375136469814004945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_7
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1955
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17266ab23185ce20800000000000000
+      internalID: 3370241951032289051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1700
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6621ab1470cd21f40800000000000000
+      internalID: 5697858402302693990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1700
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83b79953235f07f0800000000000000
+      internalID: -644204810398616694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1700
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bd5e5f781a44260800000000000000
+      internalID: 7080962119451401062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_11
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1699
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57ffc12978dbc2e0800000000000000
+      internalID: -2104350386095655076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_12
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1699
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab985aaf98167490800000000000000
+      internalID: -7748979034807559249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_13
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1700
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfd4a9a5bb919c70800000000000000
+      internalID: 8976126736863649744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_14
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1700
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707640b53483b1730800000000000000
+      internalID: 3970829358398203655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_15
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1700
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d531a5373106160800000000000000
+      internalID: 7016629605596617997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1443
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fabff6f9ad028e0800000000000000
+      internalID: -1720134679342108794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1443
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce00dc11a482d5f0800000000000000
+      internalID: -733377961799971135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_18
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1443
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8921c7e3658f18140800000000000000
+      internalID: 4720326933760184984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_19
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1444
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d992978300743c0800000000000000
+      internalID: -4375528270416208510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_20
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1443
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66fc13fe83a7f7d0800000000000000
+      internalID: -2884657201948068242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_21
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1443
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2d14137b4bfb310800000000000000
+      internalID: 1423054706170778315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_22
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1443
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54db06d5f85c58f10800000000000000
+      internalID: 2271438806615899461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_23
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1444
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551c9b85ab5a9a0b0800000000000000
+      internalID: -5716856032199065259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1188
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a1c5b19e20e8ce0800000000000000
+      internalID: -1401179233855989215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1188
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393ca0ba33043f840800000000000000
+      internalID: 5256615780728619923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_26
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1187
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e204c2558527a40d0800000000000000
+      internalID: -3437809641832300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_27
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1187
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7167c80453b00bb00800000000000000
+      internalID: 842185453662402071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_28
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1188
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3060aa9157a4dc0d0800000000000000
+      internalID: -3400980276792654333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_29
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1188
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9a089f7ff230d30800000000000000
+      internalID: 4396410403333122519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_30
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1188
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabc3c1723e839a20800000000000000
+      internalID: 3067952118477605806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_31
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1187
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46844aa700c68c050800000000000000
+      internalID: 5821021267689752676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 931
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46440f8da3876490800000000000000
+      internalID: -7753083452043016628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_33
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 932
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d69567ded10f2ea0800000000000000
+      internalID: -5895491330596563241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_34
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 932
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae144a4e08280700800000000000000
+      internalID: 506698999919812269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_35
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 932
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e9856d9d6937740800000000000000
+      internalID: 5148624661362810476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_36
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 931
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bd38f487c18c9e0800000000000000
+      internalID: -1600998364474516620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_37
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 931
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8485b820795d71bc0800000000000000
+      internalID: -3812343714986371000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_38
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 932
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a519bcde9c0e3f20800000000000000
+      internalID: 3404172244786156968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_39
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 932
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81aa8619445768d50800000000000000
+      internalID: 6739202829764307480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andriod_fire_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 676
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d840e9bc8e4ca30800000000000000
+      internalID: 4234765510862212384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

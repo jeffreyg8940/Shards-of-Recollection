@@ -1,0 +1,1168 @@
+fileFormatVersion: 2
+guid: 5a215d7bb12f6144f85eedc20b383f6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 379134049956237522
+    second: mc_fire_getsuga_0
+  - first:
+      213: 1762773497036075665
+    second: mc_fire_getsuga_1
+  - first:
+      213: -5727464942531599278
+    second: mc_fire_getsuga_2
+  - first:
+      213: 3552903871772955362
+    second: mc_fire_getsuga_3
+  - first:
+      213: 5964525316988086046
+    second: mc_fire_getsuga_4
+  - first:
+      213: -1648442037901339697
+    second: mc_fire_getsuga_5
+  - first:
+      213: 5052919712525619809
+    second: mc_fire_getsuga_6
+  - first:
+      213: -5845197835742104557
+    second: mc_fire_getsuga_7
+  - first:
+      213: 6702712589929838898
+    second: mc_fire_getsuga_8
+  - first:
+      213: -8292435141068090321
+    second: mc_fire_getsuga_9
+  - first:
+      213: 672763014135317660
+    second: mc_fire_getsuga_10
+  - first:
+      213: -6410076034072994895
+    second: mc_fire_getsuga_11
+  - first:
+      213: 8696731782170105729
+    second: mc_fire_getsuga_12
+  - first:
+      213: 1147105015354465275
+    second: mc_fire_getsuga_13
+  - first:
+      213: 1134327487648327056
+    second: mc_fire_getsuga_14
+  - first:
+      213: -180509521879961317
+    second: mc_fire_getsuga_15
+  - first:
+      213: -5106888177414387165
+    second: mc_fire_getsuga_16
+  - first:
+      213: -479293757001034429
+    second: mc_fire_getsuga_17
+  - first:
+      213: 3467027987317597772
+    second: mc_fire_getsuga_18
+  - first:
+      213: 2905516853323619344
+    second: mc_fire_getsuga_19
+  - first:
+      213: -4806337619558682242
+    second: mc_fire_getsuga_20
+  - first:
+      213: 5238531375866080281
+    second: mc_fire_getsuga_21
+  - first:
+      213: 5507257000143433596
+    second: mc_fire_getsuga_22
+  - first:
+      213: -5976517636871873238
+    second: mc_fire_getsuga_23
+  - first:
+      213: 1268063779197462123
+    second: mc_fire_getsuga_24
+  - first:
+      213: 6911329376977352515
+    second: mc_fire_getsuga_25
+  - first:
+      213: -8096040803553866757
+    second: mc_fire_getsuga_26
+  - first:
+      213: 5931074337808251932
+    second: mc_fire_getsuga_27
+  - first:
+      213: 4131847405127902910
+    second: mc_fire_getsuga_28
+  - first:
+      213: 4223921236998264373
+    second: mc_fire_getsuga_29
+  - first:
+      213: 2289756425732962476
+    second: mc_fire_getsuga_30
+  - first:
+      213: -6365506057687176947
+    second: mc_fire_getsuga_31
+  - first:
+      213: -9067744669266760536
+    second: mc_fire_getsuga_32
+  - first:
+      213: -4926929293233562631
+    second: mc_fire_getsuga_33
+  - first:
+      213: 852271769990529832
+    second: mc_fire_getsuga_34
+  - first:
+      213: 635172330696126100
+    second: mc_fire_getsuga_35
+  - first:
+      213: 1547900659918663101
+    second: mc_fire_getsuga_36
+  - first:
+      213: -237108013540032254
+    second: mc_fire_getsuga_37
+  - first:
+      213: -1566879158306727621
+    second: mc_fire_getsuga_38
+  - first:
+      213: -7426716452176580272
+    second: mc_fire_getsuga_39
+  - first:
+      213: 8928975989771051383
+    second: mc_fire_getsuga_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mc_fire_getsuga_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1948
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d095e1e864f24500800000000000000
+      internalID: 379134049956237522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1948
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192fe4ee721a67810800000000000000
+      internalID: 1762773497036075665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_2
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1947
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254a6eceaf4f380b0800000000000000
+      internalID: -5727464942531599278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_3
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1948
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2132e4f337e4130800000000000000
+      internalID: 3552903871772955362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_4
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1948
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1726e4ac2046c250800000000000000
+      internalID: 5964525316988086046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_5
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1948
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3d11a43be8f19e0800000000000000
+      internalID: -1648442037901339697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_6
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1947
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16298aff4b39f1640800000000000000
+      internalID: 5052919712525619809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_7
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1947
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314b5be998fa1eea0800000000000000
+      internalID: -5845197835742104557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1692
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2397e4a8691d40d50800000000000000
+      internalID: 6702712589929838898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1692
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f249ba5ac2a5bec80800000000000000
+      internalID: -8292435141068090321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1692
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c948e8b9562265900800000000000000
+      internalID: 672763014135317660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_11
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1691
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb95dd1fc5da07a0800000000000000
+      internalID: -6410076034072994895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_12
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1691
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18759178a7ff0b870800000000000000
+      internalID: 8696731782170105729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_13
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1692
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb95401fe55bef00800000000000000
+      internalID: 1147105015354465275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_14
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1692
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0956d3017d0fdbf00800000000000000
+      internalID: 1134327487648327056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_15
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1692
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11f4c5db83be7df0800000000000000
+      internalID: -180509521879961317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1435
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ac2959240b029b0800000000000000
+      internalID: -5106888177414387165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1435
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34514ee0ed43959f0800000000000000
+      internalID: -479293757001034429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_18
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1435
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46276ad59b5d1030800000000000000
+      internalID: 3467027987317597772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_19
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1436
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cd34b1f28725820800000000000000
+      internalID: 2905516853323619344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_20
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1435
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71bb9b66657c4db0800000000000000
+      internalID: -4806337619558682242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_21
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1435
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c6c3b088003b840800000000000000
+      internalID: 5238531375866080281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_22
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1435
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f255c1015bd6c40800000000000000
+      internalID: 5507257000143433596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_23
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1436
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d156ccfd42f0da0800000000000000
+      internalID: -5976517636871873238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1180
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66aa97e941199110800000000000000
+      internalID: 1268063779197462123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1180
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347f4785379f9ef50800000000000000
+      internalID: 6911329376977352515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_26
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1179
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb8a19a8c515af80800000000000000
+      internalID: -8096040803553866757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_27
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1179
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cfe71afa86f4250800000000000000
+      internalID: 5931074337808251932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_28
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1180
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6a4c0d255475930800000000000000
+      internalID: 4131847405127902910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_29
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1180
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536928a5cf16e9a30800000000000000
+      internalID: 4223921236998264373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_30
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1180
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca83bf96659d6cf10800000000000000
+      internalID: 2289756425732962476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_31
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1179
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0965f767fd29a7a0800000000000000
+      internalID: -6365506057687176947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 923
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aca96a2446e82280800000000000000
+      internalID: -9067744669266760536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_33
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 924
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbd85b69e700abb0800000000000000
+      internalID: -4926929293233562631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_34
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 924
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8230166c8a0e3db00800000000000000
+      internalID: 852271769990529832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_35
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 924
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eac469ed590d800800000000000000
+      internalID: 635172330696126100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_36
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 923
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6b06f27f3b7510800000000000000
+      internalID: 1547900659918663101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_37
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 923
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2014c87948f95bcf0800000000000000
+      internalID: -237108013540032254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_38
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 924
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b391a2b05b3514ae0800000000000000
+      internalID: -1566879158306727621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_39
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 924
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05137743cb00fe890800000000000000
+      internalID: -7426716452176580272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_fire_getsuga_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 668
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771ab4eda581aeb70800000000000000
+      internalID: 8928975989771051383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

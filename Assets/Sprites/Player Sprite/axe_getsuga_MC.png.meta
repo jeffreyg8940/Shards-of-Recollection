@@ -1,0 +1,1743 @@
+fileFormatVersion: 2
+guid: 9f021b6925d180c43bcb453fe19e006c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4369585818539287319
+    second: axe_getsuga_MC_0
+  - first:
+      213: -5552347173176841818
+    second: axe_getsuga_MC_1
+  - first:
+      213: -9090905814387361591
+    second: axe_getsuga_MC_2
+  - first:
+      213: 1048548728086080712
+    second: axe_getsuga_MC_3
+  - first:
+      213: 8411142178165230026
+    second: axe_getsuga_MC_4
+  - first:
+      213: 2620120369052081551
+    second: axe_getsuga_MC_5
+  - first:
+      213: 5738336455658656502
+    second: axe_getsuga_MC_6
+  - first:
+      213: 8217967538875221190
+    second: axe_getsuga_MC_7
+  - first:
+      213: -5823187532702108545
+    second: axe_getsuga_MC_8
+  - first:
+      213: -7241987267392909031
+    second: axe_getsuga_MC_9
+  - first:
+      213: 7911280660786147021
+    second: axe_getsuga_MC_10
+  - first:
+      213: 2973888425496975109
+    second: axe_getsuga_MC_11
+  - first:
+      213: -4352489264599746505
+    second: axe_getsuga_MC_12
+  - first:
+      213: 7025835633925417003
+    second: axe_getsuga_MC_13
+  - first:
+      213: -8115661841626521586
+    second: axe_getsuga_MC_14
+  - first:
+      213: 3557972541259128250
+    second: axe_getsuga_MC_15
+  - first:
+      213: 2198191274361009009
+    second: axe_getsuga_MC_16
+  - first:
+      213: 598133268627785650
+    second: axe_getsuga_MC_17
+  - first:
+      213: -518450549137956993
+    second: axe_getsuga_MC_18
+  - first:
+      213: -4424918681048613475
+    second: axe_getsuga_MC_19
+  - first:
+      213: -5461474328526004267
+    second: axe_getsuga_MC_20
+  - first:
+      213: -2090163079124908718
+    second: axe_getsuga_MC_21
+  - first:
+      213: 8528676840989366448
+    second: axe_getsuga_MC_22
+  - first:
+      213: 2495047743211784461
+    second: axe_getsuga_MC_23
+  - first:
+      213: -7306180707650002600
+    second: axe_getsuga_MC_24
+  - first:
+      213: 719751381630286666
+    second: axe_getsuga_MC_25
+  - first:
+      213: -691172939706099931
+    second: axe_getsuga_MC_26
+  - first:
+      213: -4102190840439493020
+    second: axe_getsuga_MC_27
+  - first:
+      213: -7332826343680567240
+    second: axe_getsuga_MC_28
+  - first:
+      213: 2244388056402356031
+    second: axe_getsuga_MC_29
+  - first:
+      213: -1735736022726112499
+    second: axe_getsuga_MC_30
+  - first:
+      213: 7373092007144850326
+    second: axe_getsuga_MC_31
+  - first:
+      213: -4413763109727169344
+    second: axe_getsuga_MC_32
+  - first:
+      213: 2842108545085023257
+    second: axe_getsuga_MC_33
+  - first:
+      213: -9076253333334437023
+    second: axe_getsuga_MC_34
+  - first:
+      213: -6769178051861784914
+    second: axe_getsuga_MC_35
+  - first:
+      213: -415315740674829633
+    second: axe_getsuga_MC_36
+  - first:
+      213: 8350508931339125735
+    second: axe_getsuga_MC_37
+  - first:
+      213: 8336304701154009257
+    second: axe_getsuga_MC_38
+  - first:
+      213: -8866161191558196345
+    second: axe_getsuga_MC_39
+  - first:
+      213: -2695813208306513209
+    second: axe_getsuga_MC_40
+  - first:
+      213: -1007399171238637980
+    second: axe_getsuga_MC_41
+  - first:
+      213: -4806962695325377046
+    second: axe_getsuga_MC_42
+  - first:
+      213: -2430654568403058847
+    second: axe_getsuga_MC_43
+  - first:
+      213: 4297340693834967771
+    second: axe_getsuga_MC_44
+  - first:
+      213: 4731341640314486669
+    second: axe_getsuga_MC_45
+  - first:
+      213: -131071139589910834
+    second: axe_getsuga_MC_46
+  - first:
+      213: 2502637821842283350
+    second: axe_getsuga_MC_47
+  - first:
+      213: 8214225796067204136
+    second: axe_getsuga_MC_48
+  - first:
+      213: -5917480934992012183
+    second: axe_getsuga_MC_49
+  - first:
+      213: 3004645703281513398
+    second: axe_getsuga_MC_50
+  - first:
+      213: -2904729739932497971
+    second: axe_getsuga_MC_51
+  - first:
+      213: -219884025586482408
+    second: axe_getsuga_MC_52
+  - first:
+      213: -3127677089726976885
+    second: axe_getsuga_MC_53
+  - first:
+      213: 7045292160719025119
+    second: axe_getsuga_MC_54
+  - first:
+      213: 8072865539594696594
+    second: axe_getsuga_MC_55
+  - first:
+      213: 5654946637677756331
+    second: axe_getsuga_MC_56
+  - first:
+      213: 4346281962910631147
+    second: axe_getsuga_MC_57
+  - first:
+      213: -3679451516481258172
+    second: axe_getsuga_MC_58
+  - first:
+      213: 8110075736449721138
+    second: axe_getsuga_MC_59
+  - first:
+      213: 5931280364513883124
+    second: axe_getsuga_MC_60
+  - first:
+      213: -5443464703804130185
+    second: axe_getsuga_MC_61
+  - first:
+      213: -3260200257393947706
+    second: axe_getsuga_MC_62
+  - first:
+      213: 1629969594813305117
+    second: axe_getsuga_MC_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: axe_getsuga_MC_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1948
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7136e91a623e3ac30800000000000000
+      internalID: 4369585818539287319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1948
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a96621e9a912f2b0800000000000000
+      internalID: -5552347173176841818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_2
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1948
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c878e6d35d96d180800000000000000
+      internalID: -9090905814387361591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_3
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1948
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc224343813d8e00800000000000000
+      internalID: 1048548728086080712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_4
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1948
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac908d43f316ab470800000000000000
+      internalID: 8411142178165230026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_5
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1948
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d5d1af7998c5420800000000000000
+      internalID: 2620120369052081551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_6
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1948
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f255397a9aa2af40800000000000000
+      internalID: 5738336455658656502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_7
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1948
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4495a9fe51c0270800000000000000
+      internalID: 8217967538875221190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1692
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74bec4aac1ef2fa0800000000000000
+      internalID: -5823187532702108545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1692
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911d42333fa4f7b90800000000000000
+      internalID: -7241987267392909031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_10
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1692
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce639068d38acd60800000000000000
+      internalID: 7911280660786147021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_11
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1692
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507946344cf554920800000000000000
+      internalID: 2973888425496975109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_12
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1692
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738b4d6031ad893c0800000000000000
+      internalID: -4352489264599746505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_13
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1692
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28e76ad848c08160800000000000000
+      internalID: 7025835633925417003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_14
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1692
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00a8acbd806f5f80800000000000000
+      internalID: -8115661841626521586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_15
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1692
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd1852ec25706130800000000000000
+      internalID: 3557972541259128250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1436
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173b6a8415b818e10800000000000000
+      internalID: 2198191274361009009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1436
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b707ece90ffc4800800000000000000
+      internalID: 598133268627785650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_18
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1436
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f9601f8f71ec8f0800000000000000
+      internalID: -518450549137956993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_19
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1436
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d7b1067e78792c0800000000000000
+      internalID: -4424918681048613475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_20
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1436
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfda4ac802f434b0800000000000000
+      internalID: -5461474328526004267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_21
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1436
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2558f12f0cf3ef2e0800000000000000
+      internalID: -2090163079124908718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_22
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1436
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b895476662fb5670800000000000000
+      internalID: 8528676840989366448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_23
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1436
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0947cff3b030a220800000000000000
+      internalID: 2495047743211784461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_24
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1180
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851a5bf2b5b3b9a90800000000000000
+      internalID: -7306180707650002600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_25
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1180
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b7ba471121df900800000000000000
+      internalID: 719751381630286666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_26
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1180
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52794729fd57866f0800000000000000
+      internalID: -691172939706099931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_27
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1180
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e2eba3a271217c0800000000000000
+      internalID: -4102190840439493020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_28
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1180
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8381b499a419c3a90800000000000000
+      internalID: -7332826343680567240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_29
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1180
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37edf7cb0ba52f10800000000000000
+      internalID: 2244388056402356031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_30
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1180
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b8f8d984d69e7e0800000000000000
+      internalID: -1735736022726112499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_31
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1180
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693042ebd1c725660800000000000000
+      internalID: 7373092007144850326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_32
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 924
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c41df936d92fb2c0800000000000000
+      internalID: -4413763109727169344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 924
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91425e2e9a2317720800000000000000
+      internalID: 2842108545085023257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_34
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 924
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163552f6eabaa0280800000000000000
+      internalID: -9076253333334437023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_35
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 924
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6586d2d6c0f02a0800000000000000
+      internalID: -6769178051861784914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_36
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 924
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2d277c8808c3af0800000000000000
+      internalID: -415315740674829633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_37
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 924
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3023251a7f2e370800000000000000
+      internalID: 8350508931339125735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_38
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 924
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a024b345f080b370800000000000000
+      internalID: 8336304701154009257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_39
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 924
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783d1d70f5115f480800000000000000
+      internalID: -8866161191558196345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_40
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 668
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca851a8b2c869ad0800000000000000
+      internalID: -2695813208306513209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 668
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e4c4b8acff402f0800000000000000
+      internalID: -1007399171238637980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_42
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 668
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed9390a5ec3a4db0800000000000000
+      internalID: -4806962695325377046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_43
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 668
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fb7a65c84944ed0800000000000000
+      internalID: -2430654568403058847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_44
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 668
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda2ddeb79833ab30800000000000000
+      internalID: 4297340693834967771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_45
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 668
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f75f5772a19a140800000000000000
+      internalID: 4731341640314486669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_46
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 668
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece00743e775e2ef0800000000000000
+      internalID: -131071139589910834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_47
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 668
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bdd54e6d72bb220800000000000000
+      internalID: 2502637821842283350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_48
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 412
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c9f6737dacef170800000000000000
+      internalID: 8214225796067204136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_49
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 412
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c97a81172e0eda0800000000000000
+      internalID: -5917480934992012183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_50
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 412
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b39ffb0955a2b920800000000000000
+      internalID: 3004645703281513398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_51
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 412
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc78fc201b350b7d0800000000000000
+      internalID: -2904729739932497971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_52
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 412
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813822bc4a0d2fcf0800000000000000
+      internalID: -219884025586482408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_53
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 412
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c22be02424894d0800000000000000
+      internalID: -3127677089726976885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_54
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 412
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3708284e7e5c160800000000000000
+      internalID: 7045292160719025119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_55
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 412
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297b807bf64980070800000000000000
+      internalID: 8072865539594696594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 156
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf729a71086a7e40800000000000000
+      internalID: 5654946637677756331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_57
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 156
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4c9fcea68115c30800000000000000
+      internalID: 4346281962910631147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_58
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 156
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dbcdf1756ffecc0800000000000000
+      internalID: -3679451516481258172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_59
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 156
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233a99cc9e6cc8070800000000000000
+      internalID: 8110075736449721138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_60
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 156
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f37916f014205250800000000000000
+      internalID: 5931280364513883124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_61
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 156
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cb06e41bde474b0800000000000000
+      internalID: -5443464703804130185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_62
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 156
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb8561a32171c2d0800000000000000
+      internalID: -3260200257393947706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_getsuga_MC_63
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 156
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11d885e5b0de9610800000000000000
+      internalID: 1629969594813305117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
